@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trivial-pursuit-redeploy/static/css/main.544459e4.css",
+    "main.js": "/trivial-pursuit-redeploy/static/js/main.41a38fb7.js",
+    "static/js/453.5deea1b8.chunk.js": "/trivial-pursuit-redeploy/static/js/453.5deea1b8.chunk.js",
+    "index.html": "/trivial-pursuit-redeploy/index.html",
+    "main.544459e4.css.map": "/trivial-pursuit-redeploy/static/css/main.544459e4.css.map",
+    "main.41a38fb7.js.map": "/trivial-pursuit-redeploy/static/js/main.41a38fb7.js.map",
+    "453.5deea1b8.chunk.js.map": "/trivial-pursuit-redeploy/static/js/453.5deea1b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.544459e4.css",
+    "static/js/main.41a38fb7.js"
+  ]
+}
